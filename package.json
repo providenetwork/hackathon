@@ -1,0 +1,28 @@
+{
+  "name": "hackathon",
+  "version": "0.0.0",
+  "description": "smart contracts for the EthATL hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/providenetwork/hackathon.git"
+  },
+  "keywords": [
+    "EthATL",
+    "provide.network"
+  ],
+  "author": "Kyle Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/providenetwork/hackathon/issues"
+  },
+  "homepage": "https://github.com/providenetwork/hackathon#readme",
+  "devDependencies": {
+    "solc": "0.4.23",
+    "truffle": "^4.1.8"
+  },
+  "dependencies": {}
+}
