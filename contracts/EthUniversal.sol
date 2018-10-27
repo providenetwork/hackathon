@@ -4,7 +4,7 @@ import './Judge.sol';
 import './Participant.sol';
 import './Project.sol';
 
-contract EthATL {
+contract EthUniversal {
 
     Judge[] public judges;
     Participant[] public participants;
